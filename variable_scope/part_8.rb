@@ -1,0 +1,8 @@
+array = [1, 2, 3]
+
+array.each do |element|
+  a = element
+end
+
+puts a
+# raises an exception for an undefined local variable or method 'a'
