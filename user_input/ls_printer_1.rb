@@ -1,4 +1,4 @@
-# my answer before seeing LS's, another great one to refactor
+# my response before seeing LS's, another great one to refactor
 
 loop do
 puts ">> How many output lines do you want? Enter a number >= 3: "

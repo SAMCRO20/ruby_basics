@@ -1,4 +1,4 @@
-# Before seeing LS sol'n, fantastic one to refactor
+# Before seeing LS solution, fantastic one to refactor
 loop do
 puts ">> Do you want me to print something? (y/n)"
 answer = gets.chomp.downcase
